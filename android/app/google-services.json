@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171297206309",
+    "project_id": "iriho-brew",
+    "storage_bucket": "iriho-brew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171297206309:android:e61ff7f82fa688d289cfcc",
+        "android_client_info": {
+          "package_name": "com.example.brew_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171297206309-atl97lan170sdbeif78jb5re9287852k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6gGZxoD-3Dhmq4HYxFH2fnSUB27AVHMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171297206309-atl97lan170sdbeif78jb5re9287852k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
