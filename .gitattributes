@@ -2,3 +2,4 @@
 * text=auto
 # .C linguist-detectable=false
 static/* linguist-vendored
+*.C linguist-detectable = false
