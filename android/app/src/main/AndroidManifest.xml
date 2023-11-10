@@ -2,7 +2,7 @@
     package="com.example.brew_app">
    <application
         android:label="brew_app"
-        android:name="${applicationName}"
+        android:name="Coffee Orders"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
